@@ -1,4 +1,4 @@
-# .github
+# CTF - Core Tech Fundamentals
 
 ## Deutsch
 
